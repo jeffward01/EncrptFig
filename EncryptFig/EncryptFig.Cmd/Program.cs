@@ -6,6 +6,8 @@ namespace EncryptFig.Cmd
     internal class Program
     {
         //https://www.codeproject.com/Tips/795135/Encrypt-ConnectionString-in-Web-Config
+        //http://austrianalex.com/rsaprotectedconfigurationprovider-not-recommended-for-children-under-5.html
+        //https://forums.asp.net/t/1619827.aspx?Configuration+section+encryption+is+not+supported+error+in+Net+4
         private static void Main(string[] args)
         {
             WelcomeMessage();
