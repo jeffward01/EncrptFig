@@ -5,6 +5,7 @@ namespace EncryptFig.Cmd
 {
     internal class Program
     {
+        //https://www.codeproject.com/Tips/795135/Encrypt-ConnectionString-in-Web-Config
         private static void Main(string[] args)
         {
             WelcomeMessage();
