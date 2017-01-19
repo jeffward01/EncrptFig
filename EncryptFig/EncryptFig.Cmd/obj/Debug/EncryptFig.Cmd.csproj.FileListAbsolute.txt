@@ -1,0 +1,6 @@
+C:\Dev\learning\webConfigEncrypt\EncryptFig\EncryptFig.Cmd\bin\Debug\EncryptFig.Cmd.exe.config
+C:\Dev\learning\webConfigEncrypt\EncryptFig\EncryptFig.Cmd\bin\Debug\EncryptFig.Cmd.exe
+C:\Dev\learning\webConfigEncrypt\EncryptFig\EncryptFig.Cmd\bin\Debug\EncryptFig.Cmd.pdb
+C:\Dev\learning\webConfigEncrypt\EncryptFig\EncryptFig.Cmd\obj\Debug\EncryptFig.Cmd.csprojResolveAssemblyReference.cache
+C:\Dev\learning\webConfigEncrypt\EncryptFig\EncryptFig.Cmd\obj\Debug\EncryptFig.Cmd.exe
+C:\Dev\learning\webConfigEncrypt\EncryptFig\EncryptFig.Cmd\obj\Debug\EncryptFig.Cmd.pdb
