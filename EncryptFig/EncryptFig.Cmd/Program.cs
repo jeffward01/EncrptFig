@@ -19,7 +19,7 @@ namespace EncryptFig.Cmd
             Console.WriteLine("Configuration:");
             Console.WriteLine(service.OutputConfig());
             Console.WriteLine("\n \n");
-            Console.WriteLine("Please type either encrypt or decrypt to perform the action \n ('e' or 'd' is also acceptable) \n \n Input:");
+            Console.WriteLine("Please type either 'encrypt' or 'decrypt' to perform the action \n ('e' or 'd' is also acceptable) \n \n Input:");
             var input = Console.ReadLine();
             if (!ReadInput(input))
             {
