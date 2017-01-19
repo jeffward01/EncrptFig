@@ -83,10 +83,9 @@ namespace EncryptFig.Cmd.Services
 
                 foreach (var node in _nodeArray)
                 {
-                    string commandString = "ASPNET_REGIIS -pdf " + "" + node + "" + " " + "" + _webConfigFolder + "";
+                    string commandString = "@ASPNET_REGIIS -pdf " + "" + node + "" + " " + "" + _webConfigFolder + "";
                     process.StandardInput.WriteLine(commandString);
                     
-                    process.Start();
                 }
 
                 //process.StandardInput.WriteLine("yourCommand.exe arg1 arg2");

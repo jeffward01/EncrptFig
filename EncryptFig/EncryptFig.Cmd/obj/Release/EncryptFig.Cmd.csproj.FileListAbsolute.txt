@@ -3,3 +3,4 @@ C:\Dev\learning\webConfigEncrypt\EncryptFig\EncryptFig.Cmd\bin\Release\EncryptFi
 C:\Dev\learning\webConfigEncrypt\EncryptFig\EncryptFig.Cmd\bin\Release\EncryptFig.Cmd.pdb
 C:\Dev\learning\webConfigEncrypt\EncryptFig\EncryptFig.Cmd\obj\Release\EncryptFig.Cmd.exe
 C:\Dev\learning\webConfigEncrypt\EncryptFig\EncryptFig.Cmd\obj\Release\EncryptFig.Cmd.pdb
+C:\Dev\learning\webConfigEncrypt\EncryptFig\EncryptFig.Cmd\obj\Release\EncryptFig.Cmd.csprojResolveAssemblyReference.cache
